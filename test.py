@@ -1,4 +1,4 @@
-""" def fact(n):
+ def fact(n):
     if n == 0:
         return 1
     else:
@@ -48,7 +48,7 @@ lam = lambda x,y: x*y
 print(lam(10,9))
 
 
-print((lambda a,b : a+b)(30,70))"""
+print((lambda a,b : a+b)(30,70))
 
 print('Liliane tem {} anos e Gustavo tem {} anos'.format(30,36))
 
