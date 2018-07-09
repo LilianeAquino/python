@@ -1,0 +1,3 @@
+{
+    "python.pythonPath": "${workspaceFolder}/myEnv/bin/python"
+}
